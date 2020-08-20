@@ -12,4 +12,4 @@ To implement data link layer framing techniques such as 1.character count 2.char
 6. Display the frames at the Receiver.
 # Output
 Character Count Output
-
+![output] (charecter_count.png)
