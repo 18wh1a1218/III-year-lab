@@ -31,6 +31,6 @@ To implement data link layer framing techniques such as 1.character count 2.char
  ### Bit Stuffing Output
 ![Output](Bit_Stuffing.png)
 
-### Character Stuffing Output
+### Charecter Stuffing Output
 ![Output](Charecter_stuffing.png)
 
