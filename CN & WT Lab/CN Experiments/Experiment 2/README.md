@@ -1,8 +1,8 @@
-#Experiment 2
-##Aim of the Experiment
+# Experiment 2
+## Aim of the Experiment
 To write a program to compute CRC code for the polynomials CRC-12,CRC-16 and CRC CCIP.
 
-##Procedure :
+## Procedure :
 Calculation of CRC at the Sender Side :
 
 1.A string of n 0’s is appended to the data unit to be transmitted.
@@ -32,5 +32,5 @@ If the remainder is non-zero,
 1.Receiver assumes that some error occurred in the data during the transmission.
 2.Receiver rejects the data and asks the sender for retransmission.
 
-##Output
-![imagename](crc.png)
+## Output
+![imagename](CRC.png)
