@@ -14,4 +14,4 @@ Step 8: For decryption, m = c^d mod n.
 Step 9: Stop.
 
 ## Output
-![imagename](encrypt_decrypt.png)
+![imagename](encrypt_secrypt.png)
